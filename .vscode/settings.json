@@ -3,6 +3,10 @@
         "stdlib.h": "c",
         "stdio.h": "c",
         "functions.h": "c",
-        "sortfunctions.h": "c"
+        "sortfunctions.h": "c",
+        "vector": "c",
+        "xutility": "c",
+        "linkedlist.h": "c",
+        "stdbool.h": "c"
     }
 }
